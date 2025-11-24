@@ -1,0 +1,13 @@
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.defaults
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+__pycache__/
+
+.env/
+venv/
+python_env/
