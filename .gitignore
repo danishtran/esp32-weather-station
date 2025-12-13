@@ -11,3 +11,11 @@ __pycache__/
 .env/
 venv/
 python_env/
+
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.hcl
+
+*.zip
+.vscode
